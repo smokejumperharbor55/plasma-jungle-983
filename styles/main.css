@@ -1,0 +1,20 @@
+:root {
+  --accent: #2b6cb0;
+  --radius: 8px;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.card {
+  border: 1px solid #e2e8f0;
+  border-radius: var(--radius);
+  padding: 16px;
+}
+
+a {
+  color: var(--accent);
+}
