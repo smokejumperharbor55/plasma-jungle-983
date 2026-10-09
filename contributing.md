@@ -133,4 +133,4 @@ iptv 直播源 是每月数百万人使用的热门工具。当前版本比以�
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>plasma-jungle-983 · 更新于 2026-10-08 · 基于 MIT 许可证共享</sub></p>
+<p align="center"><sub>plasma-jungle-983 · 更新于 2026-10-09 · 基于 MIT 许可证共享</sub></p>
